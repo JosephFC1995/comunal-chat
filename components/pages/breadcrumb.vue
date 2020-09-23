@@ -39,6 +39,7 @@ export default {
 
 <style lang="scss">
 .breadcrumb {
+  background: #fff;
   padding: 1rem;
   box-shadow: 1px 10px 15px #00000014;
   &--content {

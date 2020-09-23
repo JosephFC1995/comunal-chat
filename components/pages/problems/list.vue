@@ -121,7 +121,7 @@ export default {
 <style lang="scss">
 .problems {
   &--list {
-    box-shadow: 0 0 10px #0003;
+    box-shadow: 1px 10px 15px #cccccc57;
     border-radius: 10px;
     background: #fff;
     &--ul {

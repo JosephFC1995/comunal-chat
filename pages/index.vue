@@ -45,4 +45,12 @@ export default {
 }
 </script>
 
-<style></style>
+<style lang="scss">
+.content {
+  &--page {
+    &--home {
+      background: #fafafa;
+    }
+  }
+}
+</style>
